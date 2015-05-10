@@ -1,0 +1,14 @@
+------------------------- SMSSpeech-------------------------
+
+Bonjour moi c'est Nseukam loic 
+ Voici mon application SMSSpeech qui est une appli offrant un service vocal 
+   te permettant de configurer ta messagerie avec un text que l'application lire te fessant
+   savoir que tu as recu un message par exemple
+   ------------------ Vous avez recu un nouveau message-------------------
+   
+   capacite requise : 
+   un Android sdk 4.2
+   emulateur minimun Api 17
+   
+   
+   
